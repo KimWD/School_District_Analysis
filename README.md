@@ -8,6 +8,18 @@ To find out what changes will occur to the overall school district analysis when
 
 ## Results
 
+- How is the district summary affeacted?
+Evidenced by the below pictures, the overall scores were only lowered .1%
+
+Original District Summary:
+![District_Summary_Original](Resources/District_Summary_Original.png)
+
+District Summary missing the 9th grade math and reading results:
+![District_Summary_NA](Resources/District_Summary_NA.png)
+
+- How is the school summary affected?
+
+
 
 
 ### Summary
